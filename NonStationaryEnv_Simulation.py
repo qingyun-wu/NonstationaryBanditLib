@@ -248,7 +248,7 @@ class simulateOnlineData(object):
 			axa[0].set_ylabel("Regret", fontsize = 22, fontweight='bold')
 			axa[0].set_title("Accumulated Regret")
 	
-			axa[1].legend(loc='upper left',prop={'size':10}, ncol = 2)
+			axa[1].legend(loc='upper left',prop={'size':10}, ncol = 1)
 			axa[1].set_xlabel("Iteration")
 			axa[1].set_ylabel("L2 Diff")
 			#axa[1].set_yscale('log')

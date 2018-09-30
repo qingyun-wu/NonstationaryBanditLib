@@ -1,5 +1,5 @@
-# BanditLib
-This repo contains the implementation of a nonstationary bandit learning environment and a state-of-the-art non-stationary contextual bandit algorithm dLinUCB, which is published in SIGIR2018[1]. (More related non-stationary algorithms will be added, stay tuned!).
+# NonstationaryBanditLib
+This repo contains the implementation of a nonstationary bandit learning environment and a state-of-the-art non-stationary contextual bandit algorithm dLinUCB, which is published in SIGIR2018 [1]. (More related non-stationary algorithms will be added, stay tuned!).
 
 ##Usage
 Run the simulator: `python NonStationaryEnv_Simulation.py --alg XXX` where parameter alg represents the name of algorithm. 
